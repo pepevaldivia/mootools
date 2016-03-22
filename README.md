@@ -1,2 +1,2 @@
 # mootools
-Librerías elaboradas con el framework Mootools. 
+Librerías para el desarrollo Front-End. 
